@@ -1,6 +1,6 @@
-# Project Title
+# GIT BAA-ASH
 
-GIT-BASH
+We like sheep jokes. It gets BAAAD for us. 
 
 ## Description
 
