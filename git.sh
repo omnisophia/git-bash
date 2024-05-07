@@ -1,5 +1,6 @@
 #!/bin/bash
 read -p "Commit description: " desc
+read -p "What branch would you like to use?" branch
 git add . && \
 git add -u && \
 git commit -m "$desc" && \
