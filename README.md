@@ -27,15 +27,38 @@ This bash script simplifies the process of managing git repositories by automati
 
 ## Usage
 
+
+## Installation
+
+In order to install all these scripts into `$HOME/bin`, just run
+```bash
+./install.sh
+```
+
+
 1.   **Getting Started**:
-   ```bash
+
+```bash
         git clone https://github.com/omnisophia/git-bash.git
+```
+```bash
         cd git-bash
+```
+```bash
         chmod +x git.sh
+```
+```bash
         cp git.sh ~/$YOURGITHUBREPO/
+```
+```bash
         cd ~/$YOURGITHUBREPO/
+```
+```bash
         ./git.sh
-    ```
+```
+
+
+
 
 ## Authors
 
